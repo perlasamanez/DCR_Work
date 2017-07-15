@@ -1,4 +1,3 @@
-// Modify as you please. Let me know if it makes no sense at all. 
 
 #include <iostream>
 #include <math.h>
