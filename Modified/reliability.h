@@ -1,5 +1,5 @@
 /* 
-    @file reliability.cpp
+    @file reliability.h
     @author Perla Del Castillo
 */
 
