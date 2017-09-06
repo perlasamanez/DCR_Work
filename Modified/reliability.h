@@ -1,3 +1,8 @@
+/* 
+    @file reliability.cpp
+    @author Perla Del Castillo
+*/
+
 #ifndef _RELIABILITY_H
 #define _RELIABILITY_H
 
