@@ -1,4 +1,7 @@
-
+/* 
+    @file reliability.cpp
+    @author Perla Del Castillo
+*/
 #include <iostream>
 #include <math.h>
 #include <vector>
